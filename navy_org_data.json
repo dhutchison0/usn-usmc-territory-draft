@@ -1391,6 +1391,12 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "custom_1778171241810",
+            "name": "CANES",
+            "loc": "San Diego, CA",
+            "children": []
           }
         ]
       },
@@ -1566,8 +1572,5 @@
   },
   "23.4.E": {
     "ae": "Ash"
-  },
-  "23.4.2.F": {
-    "ae": "Whitespace"
   }
 }
