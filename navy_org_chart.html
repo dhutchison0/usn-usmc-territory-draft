@@ -183,7 +183,7 @@ body.edit-mode .node-row:active{cursor:grabbing}
 #structModalFooter{display:flex;gap:8px;justify-content:flex-end;margin-top:14px}
 
 /* VERSION */
-#appVersion{position:absolute;bottom:8px;left:0;right:0;text-align:center;font-size:10px;color:#2a3a5a;pointer-events:none;letter-spacing:.5px}
+#appVersion{text-align:center;font-size:10px;color:#3a5a8a;pointer-events:none;letter-spacing:.5px;padding-top:6px;margin-top:auto}
 
 /* FILE STATUS */
 #fileSection{border-top:1px solid #2a2a4a;padding-top:10px;margin-top:2px}
@@ -271,8 +271,8 @@ body.edit-mode .node-row:active{cursor:grabbing}
   <button class="ctrl-btn" onclick="exportAssignments()">⬇ Export CSV</button>
   <button class="ctrl-btn" onclick="importAssignments()">⬆ Merge Import CSV</button>
   <button class="ctrl-btn" id="btnEditMode" onclick="toggleEditMode()" style="margin-top:6px;border-color:#d4a800;color:#f0c000">✎ Edit Structure</button>
+  <div id="appVersion"></div>
 </div>
-<div id="appVersion"></div>
 
 <div id="chart-area">
   <div id="editModeBar">✎ STRUCTURE EDIT MODE — Click + to add a child, ✎ to rename, ✕ to delete</div>
@@ -370,10 +370,7 @@ body.edit-mode .node-row:active{cursor:grabbing}
 
 <script>
 const APP_VERSION = '1.1';
-document.addEventListener('DOMContentLoaded', () => {
-  const el = document.getElementById('appVersion');
-  if (el) el.textContent = 'v' + APP_VERSION;
-});
+(function(){ const el = document.getElementById('appVersion'); if (el) el.textContent = 'v' + APP_VERSION; })();
 
 // ─── DATA ────────────────────────────────────────────────────────────────────
 let ORG = {id:"root",name:"Department of the Navy",children:[
