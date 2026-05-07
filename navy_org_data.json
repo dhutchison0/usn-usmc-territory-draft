@@ -1555,12 +1555,6 @@
       }
     ]
   },
-  "23.4.1": {
-    "ae": "Higgins"
-  },
-  "23.4.E": {
-    "ae": "Coronella"
-  },
   "23.2.6.D": {
     "ae": "Higgins"
   },
@@ -1569,9 +1563,6 @@
   },
   "23.2.10": {
     "ae": "Sinclair"
-  },
-  "usn.sys": {
-    "ae": "Whitespace"
   },
   "23.4.2.J": {
     "ae": "Disqualified"
