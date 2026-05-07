@@ -738,6 +738,7 @@ let filterPerson = null;
 function saveAssignments() {
   try { localStorage.setItem('navyOrgData', JSON.stringify({ _tree: ORG, ...nodeData })); } catch(e) {}
   writeToFile(); // no-op if not connected
+  scheduleGhSave();
 }
 
 function loadAssignments() {
@@ -1774,6 +1775,15 @@ function importAssignments() {
 
 // ─── GITHUB INTEGRATION ──────────────────────────────────────────────────────
 let ghSettings = null;
+let ghSaveTimer = null;
+
+function scheduleGhSave() {
+  loadGhSettings();
+  if (!ghSettings.token || !ghSettings.owner || !ghSettings.repo) return;
+  clearTimeout(ghSaveTimer);
+  setFetchStatus('Unsaved changes…', '');
+  ghSaveTimer = setTimeout(() => saveToGitHub(), 5000);
+}
 
 function loadGhSettings() {
   if (ghSettings) return;
