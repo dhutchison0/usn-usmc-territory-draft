@@ -1013,6 +1013,12 @@
             ]
           },
           {
+            "id": "custom_1778171241810",
+            "name": "CANES",
+            "loc": "San Diego, CA",
+            "children": []
+          },
+          {
             "id": "usn.cmd",
             "name": "Fleet & Functional Commands",
             "children": [
@@ -1391,12 +1397,6 @@
                 ]
               }
             ]
-          },
-          {
-            "id": "custom_1778171241810",
-            "name": "CANES",
-            "loc": "San Diego, CA",
-            "children": []
           }
         ]
       },
