@@ -1,1 +1,1558 @@
-{"_tree":{"id":"root","name":"Department of the Navy","children":[{"id":"usn","name":"US Navy","children":[{"id":"usn.acq","name":"Acquisition (ASN RDA)","loc":"Arlington, VA","children":[{"id":"23.2.0.1","name":"PEO Attack Submarines (PEO-SSN)","loc":"Washington, DC","children":[{"id":"23.2.0.1.B","name":"Submarine Sensor Systems Program Office (PMS-435)","loc":"Washington, DC","children":[]},{"id":"23.2.0.1.C","name":"Columbia Class Submarine Program Office (PMS-397)","loc":"Washington, DC","children":[]},{"id":"23.2.0.1.D","name":"Submarine Combat & Weapons Control System Program Office (PMS-425)","loc":"Washington, DC","children":[]},{"id":"23.2.0.1.E","name":"Virginia Class Submarine Program Management Office (PMS-450)","loc":"Washington, DC","children":[]},{"id":"23.2.0.1.F","name":"Undersea Weapons Program Office (PMS-404)","loc":"Washington, DC","children":[]},{"id":"23.2.0.1.G","name":"Submarine Acoustic Systems Program Office (PMS-401)","loc":"Washington, DC","children":[]},{"id":"23.2.0.1.H","name":"Undersea Defensive Warfare Systems Program Office (PMS-415)","loc":"Washington, DC","children":[]}]},{"id":"23.2.ssbn","name":"PEO Strategic Submarines (PEO-SSBN)","loc":"Washington, DC","children":[]},{"id":"23.2.1","name":"Office of Naval Research (ONR)","loc":"Arlington, VA","children":[{"id":"23.2.1.1","name":"Naval Research Departments — Part 1","loc":"Arlington, VA","children":[]},{"id":"23.2.1.2","name":"Naval Research Departments — Part 2","loc":"Arlington, VA","children":[]},{"id":"23.2.1.3","name":"Naval Research Laboratory (NRL)","loc":"Washington, DC","children":[{"id":"23.2.1.3.1","name":"Systems Directorate","loc":"Washington, DC","children":[]},{"id":"23.2.1.3.2","name":"Ocean & Atmospheric Science & Technology Directorate","loc":"Washington, DC","children":[]},{"id":"23.2.1.3.3","name":"Material Science & Component Technology","loc":"Washington, DC","children":[]}]}]},{"id":"23.2.2","name":"PEO Unmanned & Small Combatants (PEO-USC)","loc":"Washington, DC","children":[{"id":"23.2.2.B","name":"Unmanned Maritime Systems Program Office (PMS-406)","loc":"Washington, DC","children":[]},{"id":"23.2.2.C","name":"LCS Mission Modules Program Office (PMS-420)","loc":"Washington, DC","children":[]},{"id":"23.2.2.D","name":"Naval Special Warfare Program Office (PMS-340)","loc":"Washington, DC","children":[]},{"id":"23.2.2.E","name":"Mine Warfare Program Office (PMS-495)","loc":"Washington, DC","children":[]},{"id":"23.2.2.F","name":"Remote Minehunting System Program Office (PMS-403)","loc":"Washington, DC","children":[]}]},{"id":"23.2.3","name":"PEO Air Anti-Submarine Warfare, Assault & Special Mission (PEO-A)","loc":"Patuxent River, MD","children":[{"id":"23.2.3.B","name":"H-60 Multi-Mission Helicopters Program (PMA-299)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.3.C","name":"Marine Light Attack Helicopter / H-1 Program (PMA-276)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.3.D","name":"Air Anti-Submarine Warfare Systems Program Office (PMA-264)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.3.E","name":"H-53 Helicopters Program (PMA-261)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.3.F","name":"Presidential Helicopters Program Office (PMA-274)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.3.G","name":"Maritime Patrol & Reconnaissance Aircraft Program (PMA-290)","loc":"Patuxent River, MD","children":[]}]},{"id":"23.2.4","name":"PEO Tactical Aircraft Program (PEO-T)","loc":"Patuxent River, MD","children":[{"id":"23.2.4.B","name":"Airborne Electronic Attack Systems Program (PMA-234)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.4.C","name":"E-6B Airborne Strategic C3 Program (PMA-271)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.4.D","name":"Air-to-Air Missile Systems (PMA-259)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.4.E","name":"Advanced Tactical Aircraft Protection Systems (PMA-272)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.4.F","name":"Naval Air Traffic Management Systems (PMA-213)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.4.G","name":"Aircraft Launch & Recovery Equipment Program Office (PMA-251)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.4.H","name":"F/A-18 & EA-18G Program Office (PMA-265)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.4.I","name":"AV-8B Weapon Systems Program (PMA-257)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.4.J","name":"Next Generation Air Dominance Program Office (PMA-230)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.4.K","name":"E-2/C-2 Airborne Command & Control Systems (PMA-231)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.4.L","name":"Naval Undergraduate Flight Training Systems (PMA-273)","loc":"Patuxent River, MD","children":[]}]},{"id":"23.2.5","name":"PEO Unmanned Aviation & Strike Weapons (PEO-W)","loc":"Patuxent River, MD","children":[{"id":"23.2.5.B","name":"Strike Weapons — Tomahawk & Strike Planning (PMA-280/281)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.5.C","name":"Precision Strike Weapons Program Office (PMA-201)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.5.D","name":"Direct & Time Sensitive Strike Program (PMA-242)","loc":"Patuxent River, MD","children":[]}]},{"id":"23.2.6.B","name":"Strategic Systems Programs (SSP)","loc":"Washington, DC","children":[]},{"id":"23.2.6.D","name":"PEO Digital & Enterprise Services (PEO-EIS)","loc":"San Diego, CA","children":[{"id":"23.2.6.E","name":"Naval Enterprise Networks Program Office (PMW-205)","loc":"San Diego, CA","children":[]},{"id":"23.2.6.F","name":"Special Networks & Intelligence Mission Applications (PMW-260)","loc":"San Diego, CA","children":[]},{"id":"23.2.6.G","name":"Navy Commercial Cloud Services (PMW-270)","loc":"San Diego, CA","children":[]},{"id":"23.2.6.H","name":"Special Access Programs (PMW-280)","loc":"San Diego, CA","children":[]},{"id":"23.2.6.I","name":"Enterprise IT Strategic Sourcing (PMM-290)","loc":"San Diego, CA","children":[]}]},{"id":"23.2.6.J","name":"PEO Manpower, Logistics & Business Solutions (PEO-MLB)","loc":"Washington, DC","children":[{"id":"23.2.6.K","name":"Navy Enterprise Business Solutions (PMW-220)","loc":"Washington, DC","children":[]},{"id":"23.2.6.L","name":"Enterprise Systems & Services (PMW-250)","loc":"Washington, DC","children":[]},{"id":"23.2.6.M","name":"Navy Maritime Maintenance Enterprise Solution (PMS-444)","loc":"Washington, DC","children":[]},{"id":"23.2.6.N","name":"Logistics Integrated & Information Solutions — Marine Corps (PMW-230)","loc":"Washington, DC","children":[]}]},{"id":"23.2.7.B","name":"PEO Aircraft Carriers (PEO-CV)","loc":"Washington, DC","children":[{"id":"23.2.7.C","name":"In-Service Carrier Programs (PMS-312)","loc":"Washington, DC","children":[]},{"id":"23.2.7.D","name":"CVN-78 Program Office (PMS-378)","loc":"Washington, DC","children":[]},{"id":"23.2.7.E","name":"PCU John F. Kennedy Program Office (PMS-379)","loc":"Washington, DC","children":[]}]},{"id":"23.2.7.F","name":"PEO Ships (PEO-SHIPS)","loc":"Washington, DC","children":[{"id":"23.2.7.H","name":"DDG-1000 Program Office (PMS-500)","loc":"Washington, DC","children":[]},{"id":"23.2.7.I","name":"Destroyer Ship Building (PMS-400D)","loc":"Washington, DC","children":[]},{"id":"23.2.7.J","name":"Guided Missile Destroyer DDG(X) Program (PMS-460)","loc":"Washington, DC","children":[]},{"id":"23.2.7.L","name":"LPD-17 / LSD(X) Program Office","loc":"Washington, DC","children":[]},{"id":"23.2.7.M","name":"Amphibious Warfare Program (PMS-377)","loc":"Washington, DC","children":[]},{"id":"23.2.7.N","name":"Support Ships, Boats and Craft Program Office (PMS-325)","loc":"Washington, DC","children":[]},{"id":"23.2.7.O","name":"Strategic & Theater Sealift (PMS-385)","loc":"Washington, DC","children":[]}]},{"id":"23.2.8","name":"PEO Integrated Warfare Systems (PEO-IWS)","loc":"Washington, DC","children":[{"id":"23.2.8.C","name":"Command & Control (IWS 6.0)","loc":"Washington, DC","children":[]},{"id":"23.2.8.D","name":"Terminal Defense Systems (IWS 11.0)","loc":"Washington, DC","children":[]},{"id":"23.2.8.E","name":"Aegis Technical Representative (IWS 1.0F)","loc":"Dahlgren, VA","children":[]},{"id":"23.2.8.F","name":"Above Water Sensors (IWS 2.0)","loc":"Washington, DC","children":[]},{"id":"23.2.8.G","name":"Surface Electronic Warfare Improvement Program (SEWIP)","loc":"Washington, DC","children":[]},{"id":"23.2.8.H","name":"Integrated Combat Systems (IWS X)","loc":"Washington, DC","children":[]},{"id":"23.2.8.I","name":"International & Foreign Military Sales (IWS 4.0)","loc":"Washington, DC","children":[]},{"id":"23.2.8.J","name":"DDG-1000 / Zumwalt (IWS 9.0)","loc":"Washington, DC","children":[]},{"id":"23.2.8.K","name":"Atalanta Combat Systems (IWS 80.0)","loc":"Washington, DC","children":[]},{"id":"23.2.8.1.B","name":"Surface Ship Weapons (IWS 3.0)","loc":"Washington, DC","children":[]},{"id":"23.2.8.1.C","name":"Standard Missile (IWS 3A)","loc":"Washington, DC","children":[]},{"id":"23.2.8.1.D","name":"RIM-116 Rolling Airframe Missile / CIWS Program (IWS 3B)","loc":"Washington, DC","children":[]},{"id":"23.2.8.1.E","name":"Naval Gunnery Project Office (IWS 3C)","loc":"Dahlgren, VA","children":[]},{"id":"23.2.8.1.F","name":"Undersea Systems (IWS 5.0)","loc":"Washington, DC","children":[]},{"id":"23.2.8.1.G","name":"Advanced Development for ASW (IWS 5A)","loc":"Washington, DC","children":[]},{"id":"23.2.8.1.H","name":"NATO Seasparrow","loc":"Washington, DC","children":[]}]},{"id":"23.2.9","name":"Program Executive Office (Chart 23.2.9)","children":[]},{"id":"23.2.10","name":"PEO C4I","loc":"San Diego, CA","children":[{"id":"23.2.10.B","name":"Battlespace Awareness & Information Operations (PMW-120)","loc":"San Diego, CA","children":[]},{"id":"23.2.10.C","name":"Shore & Expeditionary Integration Program Office (PMW-790)","loc":"San Diego, CA","children":[]},{"id":"23.2.10.D","name":"Tactical Networks Program Office (PMW-160)","loc":"San Diego, CA","children":[]},{"id":"23.2.10.F","name":"Undersea Communications & Integration Program Office (PMW-770)","loc":"San Diego, CA","children":[]},{"id":"23.2.10.G","name":"Cybersecurity Program Office (PMW-130)","loc":"San Diego, CA","children":[]},{"id":"23.2.10.H","name":"International C4I Integration Program Office (PMW-740)","loc":"San Diego, CA","children":[]},{"id":"23.2.10.I","name":"Command & Control Program Office (PMW-150)","loc":"San Diego, CA","children":[]},{"id":"23.2.10.J","name":"Carrier & Air Integration Program Office (PMW-750)","loc":"San Diego, CA","children":[]},{"id":"23.2.10.K","name":"Ship Integration Program Office (PMW-760)","loc":"San Diego, CA","children":[]},{"id":"23.2.10.L","name":"Navy Communications & GPS Navigation Program (PMW/A-170)","loc":"San Diego, CA","children":[]}]},{"id":"23.2.11","name":"PEO Aviation Common Systems & Commercial Services (PEO-CS)","loc":"Patuxent River, MD","children":[{"id":"23.2.11.B","name":"Aircrew Systems Program Office (PMA-202)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.11.C","name":"Naval Aviation Training Systems & Ranges Program (PMA-205)","loc":"Orlando, FL","children":[]},{"id":"23.2.11.D","name":"Air Combat Electronics Program Office (PMA-209)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.11.E","name":"Specialized & Proven Aircraft Program Office (PMA-226)","loc":"Patuxent River, MD","children":[]},{"id":"23.2.11.F","name":"Common Aviation Support Equipment Program Office (PMA-260)","loc":"Patuxent River, MD","children":[]}]}]},{"id":"usn.sys","name":"Systems Commands (SYSCOMs)","children":[{"id":"23.3.6.1","name":"Naval Air Systems Command (NAVAIR)","loc":"Patuxent River, MD","children":[{"id":"23.3.6.1.3","name":"Naval Air Warfare Center Aircraft Division (NAWCAD)","loc":"Patuxent River, MD","children":[]},{"id":"23.3.6.1.4","name":"Naval Air Warfare Center Weapons Division (NAWCWD)","loc":"China Lake, CA","children":[{"id":"23.3.6.1.4.1","name":"Research & Engineering Group","loc":"China Lake, CA","children":[]},{"id":"23.3.6.1.4.2","name":"Test & Evaluation Group","loc":"China Lake, CA","children":[]}]}]},{"id":"23.3.6.2","name":"Naval Information Warfare Systems Command (NAVWAR)","loc":"San Diego, CA","children":[{"id":"23.3.6.2.1","name":"NAVWAR Centers — Part 1","loc":"San Diego, CA","children":[]},{"id":"23.3.6.2.2","name":"NAVWAR Centers — Part 2","loc":"San Diego, CA","children":[]}]},{"id":"23.3.6.3","name":"Naval Facilities Engineering Systems Command (NAVFAC)","loc":"Washington, DC","children":[]},{"id":"23.3.6.4","name":"Naval Sea Systems Command (NAVSEA)","loc":"Washington, DC","children":[{"id":"23.3.6.4.1","name":"Undersea Warfare (SEA-17)","loc":"Washington, DC","children":[]},{"id":"23.3.6.4.2","name":"Naval Systems Engineering Directorate","loc":"Washington, DC","children":[]},{"id":"23.3.6.4.4","name":"Naval Undersea Warfare Center (NUWC)","loc":"Newport, RI","children":[{"id":"23.3.6.4.4.1","name":"Newport Division Directorates","loc":"Newport, RI","children":[]}]},{"id":"23.3.6.4.5","name":"Naval Surface Warfare Center (NSWC)","children":[{"id":"23.3.6.4.5.1","name":"Carderock Division","loc":"West Bethesda, MD","children":[]},{"id":"23.3.6.4.5.2","name":"Panama City Division","loc":"Panama City, FL","children":[]},{"id":"23.3.6.4.5.3","name":"Crane Division","loc":"Crane, IN","children":[{"id":"23.3.6.4.5.3.1","name":"Global Deterrence & Defense Department","loc":"Crane, IN","children":[{"id":"23.3.6.4.5.3.1.B","name":"Expeditionary Warfare Division","loc":"Crane, IN","children":[]},{"id":"23.3.6.4.5.3.1.C","name":"Flight Systems Division","loc":"Crane, IN","children":[]},{"id":"23.3.6.4.5.3.1.D","name":"Energy, Power & Interconnect Technologies Division","loc":"Crane, IN","children":[]},{"id":"23.3.6.4.5.3.1.E","name":"Fleet Maintenance & Engineering Division","loc":"Crane, IN","children":[]}]},{"id":"23.3.6.4.5.3.2","name":"Spectrum Warfare Systems Department","loc":"Crane, IN","children":[{"id":"23.3.6.4.5.3.2.B","name":"IR/RF Systems Technologies Division","loc":"Crane, IN","children":[]},{"id":"23.3.6.4.5.3.2.C","name":"Maritime Electronic Warfare Systems Division","loc":"Crane, IN","children":[]},{"id":"23.3.6.4.5.3.2.D","name":"Expeditionary Electronic Warfare Systems Division","loc":"Crane, IN","children":[]}]},{"id":"23.3.6.4.5.3.4","name":"Special Warfare & Expeditionary Systems Department","loc":"Crane, IN","children":[{"id":"23.3.6.4.5.3.4.B","name":"Small Arms Weapons Systems Division","loc":"Crane, IN","children":[]},{"id":"23.3.6.4.5.3.4.C","name":"Specialized Munitions Division","loc":"Crane, IN","children":[]},{"id":"23.3.6.4.5.3.4.D","name":"Maneuver & Engagement Division","loc":"Crane, IN","children":[]},{"id":"23.3.6.4.5.3.4.E","name":"Expeditionary Systems Evaluation Division","loc":"Crane, IN","children":[]},{"id":"23.3.6.4.5.3.4.F","name":"Surveillance & Reconnaissance Division","loc":"Crane, IN","children":[]},{"id":"23.3.6.4.5.3.4.G","name":"Electro-Optic Technology Division","loc":"Crane, IN","children":[]}]}]},{"id":"23.3.6.4.5.4","name":"Dahlgren Division","loc":"Dahlgren, VA","children":[{"id":"23.3.6.4.5.4.C","name":"Strategic & Weapon Control Systems Department","loc":"Dahlgren, VA","children":[]},{"id":"23.3.6.4.5.4.D","name":"Engagement Systems Department","loc":"Dahlgren, VA","children":[]},{"id":"23.3.6.4.5.4.E","name":"Gun & Electric Weapon Systems","loc":"Dahlgren, VA","children":[]},{"id":"23.3.6.4.5.4.F","name":"Asymmetric Strike Group","loc":"Dahlgren, VA","children":[]},{"id":"23.3.6.4.5.4.G","name":"Electromagnetic & Sensor Systems Department","loc":"Dahlgren, VA","children":[]}]}]},{"id":"23.3.6.4.6","name":"NAVSEA 21 Surface Warfare (SEA21)","loc":"Washington, DC","children":[{"id":"23.3.6.4.6.C","name":"Surface Ship Modernization and Sustainment Program Office","loc":"Washington, DC","children":[]},{"id":"23.3.6.4.6.E","name":"Littoral Combat Ship (LCS) Fleet Introduction & Sustainment","loc":"Washington, DC","children":[]}]}]},{"id":"23.3.6.5","name":"Naval Supply Systems Command (NAVSUP)","loc":"Mechanicsburg, PA","children":[{"id":"23.3.6.5.1","name":"NAVSUP Weapon Systems Support","loc":"Mechanicsburg, PA","children":[{"id":"23.3.6.5.1.D","name":"Information Services Directorate","loc":"Mechanicsburg, PA","children":[]},{"id":"23.3.6.5.1.F","name":"Ships & Submarines","loc":"Mechanicsburg, PA","children":[]},{"id":"23.3.6.5.1.G","name":"Nuclear Reactors Supply Chain Management Directorate","loc":"Mechanicsburg, PA","children":[]}]},{"id":"23.3.6.5.2","name":"NAVSUP Fleet Logistics Centers","children":[{"id":"23.3.6.5.2.B","name":"Fleet Logistics Center Jacksonville","loc":"Jacksonville, FL","children":[]},{"id":"23.3.6.5.2.C","name":"Fleet Logistics Center Norfolk","loc":"Norfolk, VA","children":[]},{"id":"23.3.6.5.2.D","name":"Fleet Logistics Center Yokosuka","loc":"Yokosuka, Japan","children":[]},{"id":"23.3.6.5.2.E","name":"Fleet Logistics Center Puget Sound","loc":"Bremerton, WA","children":[]},{"id":"23.3.6.5.2.F","name":"Fleet Logistics Center San Diego","loc":"San Diego, CA","children":[]},{"id":"23.3.6.5.2.H","name":"Fleet Logistics Center Pearl Harbor","loc":"Pearl Harbor, HI","children":[]},{"id":"23.3.6.5.2.I","name":"Fleet Logistics Center Sigonella","loc":"Sigonella, Italy","children":[]}]},{"id":"23.3.6.5.H","name":"NAVSUP Business Systems Center","loc":"Mechanicsburg, PA","children":[]}]}]},{"id":"usn.cmd","name":"Fleet & Functional Commands","children":[{"id":"23.3.6.6","name":"US Fleet Cyber Command / US Tenth Fleet","loc":"Fort Meade, MD","children":[{"id":"23.3.6.6.B","name":"Naval Network Warfare Command","loc":"Fort Meade, MD","children":[]},{"id":"23.3.6.6.C","name":"Naval Information Warfare Training Group Norfolk","loc":"Norfolk, VA","children":[]},{"id":"23.3.6.6.D","name":"Naval Information Warfare Training Group Gulfport","loc":"Gulfport, MS","children":[]},{"id":"23.3.6.6.E","name":"Navy Cyber Defense Operations Command","loc":"Fort Meade, MD","children":[]},{"id":"23.3.6.6.F","name":"Naval Computer & Telecommunications Area Master Station Atlantic","loc":"Chesapeake, VA","children":[]},{"id":"23.3.6.6.G","name":"Naval Computer & Telecommunications Area Master Station Pacific","loc":"Wahiawa, HI","children":[]},{"id":"23.3.6.6.H","name":"Naval Computer & Telecommunications Station San Diego","loc":"San Diego, CA","children":[]},{"id":"23.3.6.6.J","name":"Forces Surveillance Support Center","loc":"Chesapeake, VA","children":[]}]},{"id":"23.3.3","name":"Commander Navy Installations Command (CNIC)","loc":"Washington, DC","children":[{"id":"23.3.3.B","name":"Navy Region Mid-Atlantic","loc":"Norfolk, VA","children":[]},{"id":"23.3.3.D","name":"Naval District Washington","loc":"Washington, DC","children":[]},{"id":"23.3.3.E","name":"Navy Region Southeast","loc":"Jacksonville, FL","children":[]},{"id":"23.3.3.F","name":"Navy Region Southwest","loc":"San Diego, CA","children":[]},{"id":"23.3.3.G","name":"Navy Region Northwest","loc":"Bremerton, WA","children":[]},{"id":"23.3.3.H","name":"Navy Region Hawaii","loc":"Pearl Harbor, HI","children":[]}]},{"id":"23.3.5","name":"Surgeon General / Bureau of Medicine & Surgery (BUMED)","loc":"Falls Church, VA","children":[{"id":"23.3.5.C","name":"Naval Medical Forces Atlantic","loc":"Portsmouth, VA","children":[]},{"id":"23.3.5.D","name":"Naval Medical Forces Pacific","loc":"San Diego, CA","children":[]},{"id":"23.3.5.E","name":"Navy & Marine Corps Public Health Center","loc":"Portsmouth, VA","children":[]},{"id":"23.3.5.F","name":"Naval Medical Forces Support Command","loc":"Jacksonville, FL","children":[]},{"id":"23.3.5.G","name":"Navy Medical Leader & Professional Development Command","loc":"Bethesda, MD","children":[]},{"id":"23.3.5.H","name":"Navy Medicine Operational Training Command","loc":"Pensacola, FL","children":[]},{"id":"23.3.5.I","name":"Naval Medical Research Command","loc":"Silver Spring, MD","children":[]},{"id":"23.3.5.J","name":"Naval Medical Readiness Logistics Command","loc":"Williamsburg, VA","children":[]},{"id":"23.3.5.K","name":"Naval Medical Logistics Command","loc":"Fort Detrick, MD","children":[]}]},{"id":"23.3.4","name":"Warfighting Requirements & Capabilities (N9)","loc":"Washington, DC","children":[{"id":"23.3.4.1","name":"Undersea Warfare Division","loc":"Washington, DC","children":[]},{"id":"23.3.4.2","name":"Air Warfare Division","loc":"Washington, DC","children":[]},{"id":"23.3.4.3","name":"Expeditionary Warfare Division","loc":"Washington, DC","children":[]},{"id":"23.3.4.4","name":"Surface Warfare Division","loc":"Washington, DC","children":[]}]},{"id":"23.3.6.8","name":"Commander US Fleet Forces Command (COMFLTFORCOM)","loc":"Norfolk, VA","children":[{"id":"23.3.6.8.H","name":"Commander Naval Information Forces","loc":"Suffolk, VA","children":[]},{"id":"23.3.6.8.I","name":"Fleet Maritime Operations Center","loc":"Norfolk, VA","children":[]},{"id":"23.3.6.8.J","name":"Intelligence & IW","loc":"Norfolk, VA","children":[]},{"id":"23.3.6.8.L","name":"Fleet Capabilities and Force Development","loc":"Norfolk, VA","children":[]},{"id":"23.3.6.8.1","name":"Naval Meteorology & Oceanography Command (NAVMETOCCOM)","loc":"Stennis Space Center, MS","children":[{"id":"23.3.6.8.1.B","name":"Naval Oceanographic Office","loc":"Stennis Space Center, MS","children":[]},{"id":"23.3.6.8.1.C","name":"Fleet Numerical Meteorology & Oceanography Center","loc":"Monterey, CA","children":[]},{"id":"23.3.6.8.1.D","name":"Naval Oceanography Operations Command","loc":"Stennis Space Center, MS","children":[]},{"id":"23.3.6.8.1.E","name":"National Ice Center","loc":"Suitland, MD","children":[]},{"id":"23.3.6.8.1.F","name":"Naval Oceanography Mine Warfare Center","loc":"Stennis Space Center, MS","children":[]},{"id":"23.3.6.8.1.G","name":"US Naval Observatory","loc":"Washington, DC","children":[]}]},{"id":"23.3.6.8.2.B","name":"Navy Warfare Development Command","loc":"Newport, RI","children":[]},{"id":"23.3.6.8.2.D","name":"Commander Naval Air Force Atlantic","loc":"Norfolk, VA","children":[]},{"id":"23.3.6.8.2.E","name":"Military Sealift Command","loc":"Washington, DC","children":[]},{"id":"23.3.6.8.2.G","name":"Commander Submarine Forces / Submarine Forces Atlantic","loc":"Norfolk, VA","children":[]},{"id":"23.3.6.8.2.I","name":"Commander US Naval Forces Southern Command / US 4th Fleet","loc":"Mayport, FL","children":[]},{"id":"23.3.6.8.2.J","name":"Commander Naval Surface Force Atlantic","loc":"Norfolk, VA","children":[]},{"id":"23.3.6.8.2.K","name":"Navy Expeditionary Combat Command","loc":"Virginia Beach, VA","children":[]}]},{"id":"23.3.6.9","name":"Commander US Pacific Fleet","loc":"Pearl Harbor, HI","children":[{"id":"23.3.6.9.B","name":"Communications & Information Systems Directorate","loc":"Pearl Harbor, HI","children":[]},{"id":"23.3.6.9.D","name":"Commander US Third Fleet","loc":"San Diego, CA","children":[]},{"id":"23.3.6.9.E","name":"Commander, Submarine Force US Pacific Fleet","loc":"Pearl Harbor, HI","children":[]},{"id":"23.3.6.9.G","name":"Intelligence & Information Operations Directorate","loc":"Pearl Harbor, HI","children":[]},{"id":"23.3.6.9.I","name":"Commander, Naval Surface Force Pacific","loc":"San Diego, CA","children":[]},{"id":"23.3.6.9.K","name":"Operations Directorate","loc":"Pearl Harbor, HI","children":[]},{"id":"23.3.6.9.L","name":"Commander US Seventh Fleet","loc":"Yokosuka, Japan","children":[]},{"id":"23.3.6.9.M","name":"Commander, Naval Air Forces / Naval Air Force Pacific","loc":"San Diego, CA","children":[{"id":"23.3.6.9.N","name":"Naval Aviation Warfighting Development Center","loc":"Fallon, NV","children":[]}]},{"id":"23.3.6.9.P","name":"Pacific Missile Range Facility Barking Sands","loc":"Kekaha, HI","children":[]}]}]}]},{"id":"usmc","name":"USMC","children":[{"id":"23.4.1","name":"Marine Corps Systems Command (MCSC)","loc":"Quantico, VA","children":[{"id":"23.4.1.C","name":"Combat Support Systems","loc":"Quantico, VA","children":[]},{"id":"23.4.1.D","name":"Systems Engineering & Acquisition Logistics","loc":"Quantico, VA","children":[]},{"id":"23.4.1.E","name":"Marine Corps Tactical Systems Support Activity (MCTSSA)","loc":"Camp Pendleton, CA","children":[]},{"id":"23.4.1.G","name":"Technology Transition Office","loc":"Quantico, VA","children":[]},{"id":"23.4.1.H","name":"Marine Corps Information Operations Center","loc":"Quantico, VA","children":[]},{"id":"23.4.1.I","name":"Operations and Programs","loc":"Quantico, VA","children":[]},{"id":"23.4.1.J","name":"Ground Combat Element Systems","loc":"Quantico, VA","children":[]},{"id":"23.4.1.M","name":"Program Executive Office Land Systems","loc":"Quantico, VA","children":[]},{"id":"23.4.1.1.C","name":"Enterprise Software Licensing","loc":"Quantico, VA","children":[]},{"id":"23.4.1.1.D","name":"Global Combat Support Systems — Marine Corps","loc":"Quantico, VA","children":[]},{"id":"23.4.1.1.E","name":"MAGTF Command Element Systems","loc":"Quantico, VA","children":[]},{"id":"23.4.1.1.F","name":"Program Manager Training Systems","loc":"Quantico, VA","children":[]},{"id":"23.4.1.1.J","name":"Information Systems & Infrastructure","loc":"Quantico, VA","children":[]}]},{"id":"23.4.E","name":"USMC Aviation","loc":"Quantico, VA","children":[]},{"id":"23.4.2.B","name":"C4 Dept / Chief Information Officer","loc":"Quantico, VA","children":[]},{"id":"23.4.2.D","name":"US Marine Corps Forces Special Operations Command (MARSOC)","loc":"Camp Lejeune, NC","children":[]},{"id":"23.4.2.F","name":"Intelligence Department","loc":"Quantico, VA","children":[]},{"id":"23.4.2.I","name":"Plans, Policies & Operations","loc":"Quantico, VA","children":[{"id":"23.4.2.J","name":"Operations Division","loc":"Quantico, VA","children":[]},{"id":"23.4.2.K","name":"Strategy & Plans Division","loc":"Quantico, VA","children":[]}]},{"id":"23.4.2.L","name":"Programs & Resources Department","loc":"Quantico, VA","children":[]},{"id":"23.4.3","name":"Marine Corps Combat Development & Integration Command","loc":"Quantico, VA","children":[{"id":"23.4.3.F","name":"Capabilities Development Directorate","loc":"Quantico, VA","children":[]},{"id":"23.4.3.I","name":"Marine Corps Warfighting Laboratory / Futures Directorate","loc":"Quantico, VA","children":[]}]}]}]}}
+{
+  "_tree": {
+    "id": "root",
+    "name": "Department of the Navy",
+    "children": [
+      {
+        "id": "usn",
+        "name": "US Navy",
+        "children": [
+          {
+            "id": "usn.acq",
+            "name": "Acquisition (ASN RDA)",
+            "loc": "Arlington, VA",
+            "children": [
+              {
+                "id": "23.2.0.1",
+                "name": "PEO Attack Submarines (PEO-SSN)",
+                "loc": "Washington, DC",
+                "children": [
+                  {
+                    "id": "23.2.0.1.B",
+                    "name": "Submarine Sensor Systems Program Office (PMS-435)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.0.1.C",
+                    "name": "Columbia Class Submarine Program Office (PMS-397)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.0.1.D",
+                    "name": "Submarine Combat & Weapons Control System Program Office (PMS-425)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.0.1.E",
+                    "name": "Virginia Class Submarine Program Management Office (PMS-450)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.0.1.F",
+                    "name": "Undersea Weapons Program Office (PMS-404)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.0.1.G",
+                    "name": "Submarine Acoustic Systems Program Office (PMS-401)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.0.1.H",
+                    "name": "Undersea Defensive Warfare Systems Program Office (PMS-415)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.2.ssbn",
+                "name": "PEO Strategic Submarines (PEO-SSBN)",
+                "loc": "Washington, DC",
+                "children": []
+              },
+              {
+                "id": "23.2.1",
+                "name": "Office of Naval Research (ONR)",
+                "loc": "Arlington, VA",
+                "children": [
+                  {
+                    "id": "23.2.1.1",
+                    "name": "Naval Research Departments — Part 1",
+                    "loc": "Arlington, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.1.2",
+                    "name": "Naval Research Departments — Part 2",
+                    "loc": "Arlington, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.1.3",
+                    "name": "Naval Research Laboratory (NRL)",
+                    "loc": "Washington, DC",
+                    "children": [
+                      {
+                        "id": "23.2.1.3.1",
+                        "name": "Systems Directorate",
+                        "loc": "Washington, DC",
+                        "children": []
+                      },
+                      {
+                        "id": "23.2.1.3.2",
+                        "name": "Ocean & Atmospheric Science & Technology Directorate",
+                        "loc": "Washington, DC",
+                        "children": []
+                      },
+                      {
+                        "id": "23.2.1.3.3",
+                        "name": "Material Science & Component Technology",
+                        "loc": "Washington, DC",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "23.2.2",
+                "name": "PEO Unmanned & Small Combatants (PEO-USC)",
+                "loc": "Washington, DC",
+                "children": [
+                  {
+                    "id": "23.2.2.B",
+                    "name": "Unmanned Maritime Systems Program Office (PMS-406)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.2.C",
+                    "name": "LCS Mission Modules Program Office (PMS-420)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.2.D",
+                    "name": "Naval Special Warfare Program Office (PMS-340)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.2.E",
+                    "name": "Mine Warfare Program Office (PMS-495)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.2.F",
+                    "name": "Remote Minehunting System Program Office (PMS-403)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.2.3",
+                "name": "PEO Air Anti-Submarine Warfare, Assault & Special Mission (PEO-A)",
+                "loc": "Patuxent River, MD",
+                "children": [
+                  {
+                    "id": "23.2.3.B",
+                    "name": "H-60 Multi-Mission Helicopters Program (PMA-299)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.3.C",
+                    "name": "Marine Light Attack Helicopter / H-1 Program (PMA-276)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.3.D",
+                    "name": "Air Anti-Submarine Warfare Systems Program Office (PMA-264)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.3.E",
+                    "name": "H-53 Helicopters Program (PMA-261)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.3.F",
+                    "name": "Presidential Helicopters Program Office (PMA-274)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.3.G",
+                    "name": "Maritime Patrol & Reconnaissance Aircraft Program (PMA-290)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.2.4",
+                "name": "PEO Tactical Aircraft Program (PEO-T)",
+                "loc": "Patuxent River, MD",
+                "children": [
+                  {
+                    "id": "23.2.4.B",
+                    "name": "Airborne Electronic Attack Systems Program (PMA-234)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.4.C",
+                    "name": "E-6B Airborne Strategic C3 Program (PMA-271)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.4.D",
+                    "name": "Air-to-Air Missile Systems (PMA-259)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.4.E",
+                    "name": "Advanced Tactical Aircraft Protection Systems (PMA-272)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.4.F",
+                    "name": "Naval Air Traffic Management Systems (PMA-213)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.4.G",
+                    "name": "Aircraft Launch & Recovery Equipment Program Office (PMA-251)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.4.H",
+                    "name": "F/A-18 & EA-18G Program Office (PMA-265)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.4.I",
+                    "name": "AV-8B Weapon Systems Program (PMA-257)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.4.J",
+                    "name": "Next Generation Air Dominance Program Office (PMA-230)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.4.K",
+                    "name": "E-2/C-2 Airborne Command & Control Systems (PMA-231)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.4.L",
+                    "name": "Naval Undergraduate Flight Training Systems (PMA-273)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.2.5",
+                "name": "PEO Unmanned Aviation & Strike Weapons (PEO-W)",
+                "loc": "Patuxent River, MD",
+                "children": [
+                  {
+                    "id": "23.2.5.B",
+                    "name": "Strike Weapons — Tomahawk & Strike Planning (PMA-280/281)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.5.C",
+                    "name": "Precision Strike Weapons Program Office (PMA-201)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.5.D",
+                    "name": "Direct & Time Sensitive Strike Program (PMA-242)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.2.6.B",
+                "name": "Strategic Systems Programs (SSP)",
+                "loc": "Washington, DC",
+                "children": []
+              },
+              {
+                "id": "23.2.6.D",
+                "name": "PEO Digital & Enterprise Services (PEO-EIS)",
+                "loc": "San Diego, CA",
+                "children": [
+                  {
+                    "id": "23.2.6.E",
+                    "name": "Naval Enterprise Networks Program Office (PMW-205)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.6.F",
+                    "name": "Special Networks & Intelligence Mission Applications (PMW-260)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.6.G",
+                    "name": "Navy Commercial Cloud Services (PMW-270)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.6.H",
+                    "name": "Special Access Programs (PMW-280)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.6.I",
+                    "name": "Enterprise IT Strategic Sourcing (PMM-290)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.2.6.J",
+                "name": "PEO Manpower, Logistics & Business Solutions (PEO-MLB)",
+                "loc": "Washington, DC",
+                "children": [
+                  {
+                    "id": "23.2.6.K",
+                    "name": "Navy Enterprise Business Solutions (PMW-220)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.6.L",
+                    "name": "Enterprise Systems & Services (PMW-250)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.6.M",
+                    "name": "Navy Maritime Maintenance Enterprise Solution (PMS-444)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.6.N",
+                    "name": "Logistics Integrated & Information Solutions — Marine Corps (PMW-230)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.2.7.B",
+                "name": "PEO Aircraft Carriers (PEO-CV)",
+                "loc": "Washington, DC",
+                "children": [
+                  {
+                    "id": "23.2.7.C",
+                    "name": "In-Service Carrier Programs (PMS-312)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.7.D",
+                    "name": "CVN-78 Program Office (PMS-378)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.7.E",
+                    "name": "PCU John F. Kennedy Program Office (PMS-379)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.2.7.F",
+                "name": "PEO Ships (PEO-SHIPS)",
+                "loc": "Washington, DC",
+                "children": [
+                  {
+                    "id": "23.2.7.H",
+                    "name": "DDG-1000 Program Office (PMS-500)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.7.I",
+                    "name": "Destroyer Ship Building (PMS-400D)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.7.J",
+                    "name": "Guided Missile Destroyer DDG(X) Program (PMS-460)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.7.L",
+                    "name": "LPD-17 / LSD(X) Program Office",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.7.M",
+                    "name": "Amphibious Warfare Program (PMS-377)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.7.N",
+                    "name": "Support Ships, Boats and Craft Program Office (PMS-325)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.7.O",
+                    "name": "Strategic & Theater Sealift (PMS-385)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.2.8",
+                "name": "PEO Integrated Warfare Systems (PEO-IWS)",
+                "loc": "Washington, DC",
+                "children": [
+                  {
+                    "id": "23.2.8.C",
+                    "name": "Command & Control (IWS 6.0)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.D",
+                    "name": "Terminal Defense Systems (IWS 11.0)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.E",
+                    "name": "Aegis Technical Representative (IWS 1.0F)",
+                    "loc": "Dahlgren, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.F",
+                    "name": "Above Water Sensors (IWS 2.0)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.G",
+                    "name": "Surface Electronic Warfare Improvement Program (SEWIP)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.H",
+                    "name": "Integrated Combat Systems (IWS X)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.I",
+                    "name": "International & Foreign Military Sales (IWS 4.0)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.J",
+                    "name": "DDG-1000 / Zumwalt (IWS 9.0)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.K",
+                    "name": "Atalanta Combat Systems (IWS 80.0)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.1.B",
+                    "name": "Surface Ship Weapons (IWS 3.0)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.1.C",
+                    "name": "Standard Missile (IWS 3A)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.1.D",
+                    "name": "RIM-116 Rolling Airframe Missile / CIWS Program (IWS 3B)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.1.E",
+                    "name": "Naval Gunnery Project Office (IWS 3C)",
+                    "loc": "Dahlgren, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.1.F",
+                    "name": "Undersea Systems (IWS 5.0)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.1.G",
+                    "name": "Advanced Development for ASW (IWS 5A)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.8.1.H",
+                    "name": "NATO Seasparrow",
+                    "loc": "Washington, DC",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.2.9",
+                "name": "Program Executive Office (Chart 23.2.9)",
+                "children": []
+              },
+              {
+                "id": "23.2.10",
+                "name": "PEO C4I",
+                "loc": "San Diego, CA",
+                "children": [
+                  {
+                    "id": "23.2.10.B",
+                    "name": "Battlespace Awareness & Information Operations (PMW-120)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.10.C",
+                    "name": "Shore & Expeditionary Integration Program Office (PMW-790)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.10.D",
+                    "name": "Tactical Networks Program Office (PMW-160)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.10.F",
+                    "name": "Undersea Communications & Integration Program Office (PMW-770)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.10.G",
+                    "name": "Cybersecurity Program Office (PMW-130)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.10.H",
+                    "name": "International C4I Integration Program Office (PMW-740)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.10.I",
+                    "name": "Command & Control Program Office (PMW-150)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.10.J",
+                    "name": "Carrier & Air Integration Program Office (PMW-750)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.10.K",
+                    "name": "Ship Integration Program Office (PMW-760)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.10.L",
+                    "name": "Navy Communications & GPS Navigation Program (PMW/A-170)",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.2.11",
+                "name": "PEO Aviation Common Systems & Commercial Services (PEO-CS)",
+                "loc": "Patuxent River, MD",
+                "children": [
+                  {
+                    "id": "23.2.11.B",
+                    "name": "Aircrew Systems Program Office (PMA-202)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.11.C",
+                    "name": "Naval Aviation Training Systems & Ranges Program (PMA-205)",
+                    "loc": "Orlando, FL",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.11.D",
+                    "name": "Air Combat Electronics Program Office (PMA-209)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.11.E",
+                    "name": "Specialized & Proven Aircraft Program Office (PMA-226)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.2.11.F",
+                    "name": "Common Aviation Support Equipment Program Office (PMA-260)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "usn.sys",
+            "name": "Systems Commands (SYSCOMs)",
+            "children": [
+              {
+                "id": "23.3.6.1",
+                "name": "Naval Air Systems Command (NAVAIR)",
+                "loc": "Patuxent River, MD",
+                "children": [
+                  {
+                    "id": "23.3.6.1.3",
+                    "name": "Naval Air Warfare Center Aircraft Division (NAWCAD)",
+                    "loc": "Patuxent River, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.1.4",
+                    "name": "Naval Air Warfare Center Weapons Division (NAWCWD)",
+                    "loc": "China Lake, CA",
+                    "children": [
+                      {
+                        "id": "23.3.6.1.4.1",
+                        "name": "Research & Engineering Group",
+                        "loc": "China Lake, CA",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.1.4.2",
+                        "name": "Test & Evaluation Group",
+                        "loc": "China Lake, CA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "23.3.6.2",
+                "name": "Naval Information Warfare Systems Command (NAVWAR)",
+                "loc": "San Diego, CA",
+                "children": [
+                  {
+                    "id": "23.3.6.2.1",
+                    "name": "NAVWAR Centers — Part 1",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.2.2",
+                    "name": "NAVWAR Centers — Part 2",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.3.6.3",
+                "name": "Naval Facilities Engineering Systems Command (NAVFAC)",
+                "loc": "Washington, DC",
+                "children": []
+              },
+              {
+                "id": "23.3.6.4",
+                "name": "Naval Sea Systems Command (NAVSEA)",
+                "loc": "Washington, DC",
+                "children": [
+                  {
+                    "id": "23.3.6.4.1",
+                    "name": "Undersea Warfare (SEA-17)",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.4.2",
+                    "name": "Naval Systems Engineering Directorate",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.4.4",
+                    "name": "Naval Undersea Warfare Center (NUWC)",
+                    "loc": "Newport, RI",
+                    "children": [
+                      {
+                        "id": "23.3.6.4.4.1",
+                        "name": "Newport Division Directorates",
+                        "loc": "Newport, RI",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "23.3.6.4.5",
+                    "name": "Naval Surface Warfare Center (NSWC)",
+                    "children": [
+                      {
+                        "id": "23.3.6.4.5.1",
+                        "name": "Carderock Division",
+                        "loc": "West Bethesda, MD",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.4.5.2",
+                        "name": "Panama City Division",
+                        "loc": "Panama City, FL",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.4.5.3",
+                        "name": "Crane Division",
+                        "loc": "Crane, IN",
+                        "children": [
+                          {
+                            "id": "23.3.6.4.5.3.1",
+                            "name": "Global Deterrence & Defense Department",
+                            "loc": "Crane, IN",
+                            "children": [
+                              {
+                                "id": "23.3.6.4.5.3.1.B",
+                                "name": "Expeditionary Warfare Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              },
+                              {
+                                "id": "23.3.6.4.5.3.1.C",
+                                "name": "Flight Systems Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              },
+                              {
+                                "id": "23.3.6.4.5.3.1.D",
+                                "name": "Energy, Power & Interconnect Technologies Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              },
+                              {
+                                "id": "23.3.6.4.5.3.1.E",
+                                "name": "Fleet Maintenance & Engineering Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "23.3.6.4.5.3.2",
+                            "name": "Spectrum Warfare Systems Department",
+                            "loc": "Crane, IN",
+                            "children": [
+                              {
+                                "id": "23.3.6.4.5.3.2.B",
+                                "name": "IR/RF Systems Technologies Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              },
+                              {
+                                "id": "23.3.6.4.5.3.2.C",
+                                "name": "Maritime Electronic Warfare Systems Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              },
+                              {
+                                "id": "23.3.6.4.5.3.2.D",
+                                "name": "Expeditionary Electronic Warfare Systems Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "23.3.6.4.5.3.4",
+                            "name": "Special Warfare & Expeditionary Systems Department",
+                            "loc": "Crane, IN",
+                            "children": [
+                              {
+                                "id": "23.3.6.4.5.3.4.B",
+                                "name": "Small Arms Weapons Systems Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              },
+                              {
+                                "id": "23.3.6.4.5.3.4.C",
+                                "name": "Specialized Munitions Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              },
+                              {
+                                "id": "23.3.6.4.5.3.4.D",
+                                "name": "Maneuver & Engagement Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              },
+                              {
+                                "id": "23.3.6.4.5.3.4.E",
+                                "name": "Expeditionary Systems Evaluation Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              },
+                              {
+                                "id": "23.3.6.4.5.3.4.F",
+                                "name": "Surveillance & Reconnaissance Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              },
+                              {
+                                "id": "23.3.6.4.5.3.4.G",
+                                "name": "Electro-Optic Technology Division",
+                                "loc": "Crane, IN",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "23.3.6.4.5.4",
+                        "name": "Dahlgren Division",
+                        "loc": "Dahlgren, VA",
+                        "children": [
+                          {
+                            "id": "23.3.6.4.5.4.C",
+                            "name": "Strategic & Weapon Control Systems Department",
+                            "loc": "Dahlgren, VA",
+                            "children": []
+                          },
+                          {
+                            "id": "23.3.6.4.5.4.D",
+                            "name": "Engagement Systems Department",
+                            "loc": "Dahlgren, VA",
+                            "children": []
+                          },
+                          {
+                            "id": "23.3.6.4.5.4.E",
+                            "name": "Gun & Electric Weapon Systems",
+                            "loc": "Dahlgren, VA",
+                            "children": []
+                          },
+                          {
+                            "id": "23.3.6.4.5.4.F",
+                            "name": "Asymmetric Strike Group",
+                            "loc": "Dahlgren, VA",
+                            "children": []
+                          },
+                          {
+                            "id": "23.3.6.4.5.4.G",
+                            "name": "Electromagnetic & Sensor Systems Department",
+                            "loc": "Dahlgren, VA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "23.3.6.4.6",
+                    "name": "NAVSEA 21 Surface Warfare (SEA21)",
+                    "loc": "Washington, DC",
+                    "children": [
+                      {
+                        "id": "23.3.6.4.6.C",
+                        "name": "Surface Ship Modernization and Sustainment Program Office",
+                        "loc": "Washington, DC",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.4.6.E",
+                        "name": "Littoral Combat Ship (LCS) Fleet Introduction & Sustainment",
+                        "loc": "Washington, DC",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "23.3.6.5",
+                "name": "Naval Supply Systems Command (NAVSUP)",
+                "loc": "Mechanicsburg, PA",
+                "children": [
+                  {
+                    "id": "23.3.6.5.1",
+                    "name": "NAVSUP Weapon Systems Support",
+                    "loc": "Mechanicsburg, PA",
+                    "children": [
+                      {
+                        "id": "23.3.6.5.1.D",
+                        "name": "Information Services Directorate",
+                        "loc": "Mechanicsburg, PA",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.5.1.F",
+                        "name": "Ships & Submarines",
+                        "loc": "Mechanicsburg, PA",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.5.1.G",
+                        "name": "Nuclear Reactors Supply Chain Management Directorate",
+                        "loc": "Mechanicsburg, PA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "23.3.6.5.2",
+                    "name": "NAVSUP Fleet Logistics Centers",
+                    "children": [
+                      {
+                        "id": "23.3.6.5.2.B",
+                        "name": "Fleet Logistics Center Jacksonville",
+                        "loc": "Jacksonville, FL",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.5.2.C",
+                        "name": "Fleet Logistics Center Norfolk",
+                        "loc": "Norfolk, VA",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.5.2.D",
+                        "name": "Fleet Logistics Center Yokosuka",
+                        "loc": "Yokosuka, Japan",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.5.2.E",
+                        "name": "Fleet Logistics Center Puget Sound",
+                        "loc": "Bremerton, WA",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.5.2.F",
+                        "name": "Fleet Logistics Center San Diego",
+                        "loc": "San Diego, CA",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.5.2.H",
+                        "name": "Fleet Logistics Center Pearl Harbor",
+                        "loc": "Pearl Harbor, HI",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.5.2.I",
+                        "name": "Fleet Logistics Center Sigonella",
+                        "loc": "Sigonella, Italy",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "23.3.6.5.H",
+                    "name": "NAVSUP Business Systems Center",
+                    "loc": "Mechanicsburg, PA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "usn.cmd",
+            "name": "Fleet & Functional Commands",
+            "children": [
+              {
+                "id": "23.3.6.6",
+                "name": "US Fleet Cyber Command / US Tenth Fleet",
+                "loc": "Fort Meade, MD",
+                "children": [
+                  {
+                    "id": "23.3.6.6.B",
+                    "name": "Naval Network Warfare Command",
+                    "loc": "Fort Meade, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.6.C",
+                    "name": "Naval Information Warfare Training Group Norfolk",
+                    "loc": "Norfolk, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.6.D",
+                    "name": "Naval Information Warfare Training Group Gulfport",
+                    "loc": "Gulfport, MS",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.6.E",
+                    "name": "Navy Cyber Defense Operations Command",
+                    "loc": "Fort Meade, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.6.F",
+                    "name": "Naval Computer & Telecommunications Area Master Station Atlantic",
+                    "loc": "Chesapeake, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.6.G",
+                    "name": "Naval Computer & Telecommunications Area Master Station Pacific",
+                    "loc": "Wahiawa, HI",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.6.H",
+                    "name": "Naval Computer & Telecommunications Station San Diego",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.6.J",
+                    "name": "Forces Surveillance Support Center",
+                    "loc": "Chesapeake, VA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.3.3",
+                "name": "Commander Navy Installations Command (CNIC)",
+                "loc": "Washington, DC",
+                "children": [
+                  {
+                    "id": "23.3.3.B",
+                    "name": "Navy Region Mid-Atlantic",
+                    "loc": "Norfolk, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.3.D",
+                    "name": "Naval District Washington",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.3.E",
+                    "name": "Navy Region Southeast",
+                    "loc": "Jacksonville, FL",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.3.F",
+                    "name": "Navy Region Southwest",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.3.G",
+                    "name": "Navy Region Northwest",
+                    "loc": "Bremerton, WA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.3.H",
+                    "name": "Navy Region Hawaii",
+                    "loc": "Pearl Harbor, HI",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.3.5",
+                "name": "Surgeon General / Bureau of Medicine & Surgery (BUMED)",
+                "loc": "Falls Church, VA",
+                "children": [
+                  {
+                    "id": "23.3.5.C",
+                    "name": "Naval Medical Forces Atlantic",
+                    "loc": "Portsmouth, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.5.D",
+                    "name": "Naval Medical Forces Pacific",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.5.E",
+                    "name": "Navy & Marine Corps Public Health Center",
+                    "loc": "Portsmouth, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.5.F",
+                    "name": "Naval Medical Forces Support Command",
+                    "loc": "Jacksonville, FL",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.5.G",
+                    "name": "Navy Medical Leader & Professional Development Command",
+                    "loc": "Bethesda, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.5.H",
+                    "name": "Navy Medicine Operational Training Command",
+                    "loc": "Pensacola, FL",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.5.I",
+                    "name": "Naval Medical Research Command",
+                    "loc": "Silver Spring, MD",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.5.J",
+                    "name": "Naval Medical Readiness Logistics Command",
+                    "loc": "Williamsburg, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.5.K",
+                    "name": "Naval Medical Logistics Command",
+                    "loc": "Fort Detrick, MD",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.3.4",
+                "name": "Warfighting Requirements & Capabilities (N9)",
+                "loc": "Washington, DC",
+                "children": [
+                  {
+                    "id": "23.3.4.1",
+                    "name": "Undersea Warfare Division",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.4.2",
+                    "name": "Air Warfare Division",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.4.3",
+                    "name": "Expeditionary Warfare Division",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.4.4",
+                    "name": "Surface Warfare Division",
+                    "loc": "Washington, DC",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.3.6.8",
+                "name": "Commander US Fleet Forces Command (COMFLTFORCOM)",
+                "loc": "Norfolk, VA",
+                "children": [
+                  {
+                    "id": "23.3.6.8.H",
+                    "name": "Commander Naval Information Forces",
+                    "loc": "Suffolk, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.8.I",
+                    "name": "Fleet Maritime Operations Center",
+                    "loc": "Norfolk, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.8.J",
+                    "name": "Intelligence & IW",
+                    "loc": "Norfolk, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.8.L",
+                    "name": "Fleet Capabilities and Force Development",
+                    "loc": "Norfolk, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.8.1",
+                    "name": "Naval Meteorology & Oceanography Command (NAVMETOCCOM)",
+                    "loc": "Stennis Space Center, MS",
+                    "children": [
+                      {
+                        "id": "23.3.6.8.1.B",
+                        "name": "Naval Oceanographic Office",
+                        "loc": "Stennis Space Center, MS",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.8.1.C",
+                        "name": "Fleet Numerical Meteorology & Oceanography Center",
+                        "loc": "Monterey, CA",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.8.1.D",
+                        "name": "Naval Oceanography Operations Command",
+                        "loc": "Stennis Space Center, MS",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.8.1.E",
+                        "name": "National Ice Center",
+                        "loc": "Suitland, MD",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.8.1.F",
+                        "name": "Naval Oceanography Mine Warfare Center",
+                        "loc": "Stennis Space Center, MS",
+                        "children": []
+                      },
+                      {
+                        "id": "23.3.6.8.1.G",
+                        "name": "US Naval Observatory",
+                        "loc": "Washington, DC",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "23.3.6.8.2.B",
+                    "name": "Navy Warfare Development Command",
+                    "loc": "Newport, RI",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.8.2.D",
+                    "name": "Commander Naval Air Force Atlantic",
+                    "loc": "Norfolk, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.8.2.E",
+                    "name": "Military Sealift Command",
+                    "loc": "Washington, DC",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.8.2.G",
+                    "name": "Commander Submarine Forces / Submarine Forces Atlantic",
+                    "loc": "Norfolk, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.8.2.I",
+                    "name": "Commander US Naval Forces Southern Command / US 4th Fleet",
+                    "loc": "Mayport, FL",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.8.2.J",
+                    "name": "Commander Naval Surface Force Atlantic",
+                    "loc": "Norfolk, VA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.8.2.K",
+                    "name": "Navy Expeditionary Combat Command",
+                    "loc": "Virginia Beach, VA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23.3.6.9",
+                "name": "Commander US Pacific Fleet",
+                "loc": "Pearl Harbor, HI",
+                "children": [
+                  {
+                    "id": "23.3.6.9.B",
+                    "name": "Communications & Information Systems Directorate",
+                    "loc": "Pearl Harbor, HI",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.9.D",
+                    "name": "Commander US Third Fleet",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.9.E",
+                    "name": "Commander, Submarine Force US Pacific Fleet",
+                    "loc": "Pearl Harbor, HI",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.9.G",
+                    "name": "Intelligence & Information Operations Directorate",
+                    "loc": "Pearl Harbor, HI",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.9.I",
+                    "name": "Commander, Naval Surface Force Pacific",
+                    "loc": "San Diego, CA",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.9.K",
+                    "name": "Operations Directorate",
+                    "loc": "Pearl Harbor, HI",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.9.L",
+                    "name": "Commander US Seventh Fleet",
+                    "loc": "Yokosuka, Japan",
+                    "children": []
+                  },
+                  {
+                    "id": "23.3.6.9.M",
+                    "name": "Commander, Naval Air Forces / Naval Air Force Pacific",
+                    "loc": "San Diego, CA",
+                    "children": [
+                      {
+                        "id": "23.3.6.9.N",
+                        "name": "Naval Aviation Warfighting Development Center",
+                        "loc": "Fallon, NV",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "23.3.6.9.P",
+                    "name": "Pacific Missile Range Facility Barking Sands",
+                    "loc": "Kekaha, HI",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "usmc",
+        "name": "USMC",
+        "children": [
+          {
+            "id": "23.4.1",
+            "name": "Marine Corps Systems Command (MCSC)",
+            "loc": "Quantico, VA",
+            "children": [
+              {
+                "id": "23.4.1.C",
+                "name": "Combat Support Systems",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.1.D",
+                "name": "Systems Engineering & Acquisition Logistics",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.1.E",
+                "name": "Marine Corps Tactical Systems Support Activity (MCTSSA)",
+                "loc": "Camp Pendleton, CA",
+                "children": []
+              },
+              {
+                "id": "23.4.1.G",
+                "name": "Technology Transition Office",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.1.H",
+                "name": "Marine Corps Information Operations Center",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.1.I",
+                "name": "Operations and Programs",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.1.J",
+                "name": "Ground Combat Element Systems",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.1.M",
+                "name": "Program Executive Office Land Systems",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.1.1.C",
+                "name": "Enterprise Software Licensing",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.1.1.D",
+                "name": "Global Combat Support Systems — Marine Corps",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.1.1.E",
+                "name": "MAGTF Command Element Systems",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.1.1.F",
+                "name": "Program Manager Training Systems",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.1.1.J",
+                "name": "Information Systems & Infrastructure",
+                "loc": "Quantico, VA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "23.4.E",
+            "name": "USMC Aviation",
+            "loc": "Quantico, VA",
+            "children": []
+          },
+          {
+            "id": "23.4.2.B",
+            "name": "C4 Dept / Chief Information Officer",
+            "loc": "Quantico, VA",
+            "children": []
+          },
+          {
+            "id": "23.4.2.D",
+            "name": "US Marine Corps Forces Special Operations Command (MARSOC)",
+            "loc": "Camp Lejeune, NC",
+            "children": []
+          },
+          {
+            "id": "23.4.2.F",
+            "name": "Intelligence Department",
+            "loc": "Quantico, VA",
+            "children": []
+          },
+          {
+            "id": "23.4.2.I",
+            "name": "Plans, Policies & Operations",
+            "loc": "Quantico, VA",
+            "children": [
+              {
+                "id": "23.4.2.J",
+                "name": "Operations Division",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.2.K",
+                "name": "Strategy & Plans Division",
+                "loc": "Quantico, VA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "23.4.2.L",
+            "name": "Programs & Resources Department",
+            "loc": "Quantico, VA",
+            "children": []
+          },
+          {
+            "id": "23.4.3",
+            "name": "Marine Corps Combat Development & Integration Command",
+            "loc": "Quantico, VA",
+            "children": [
+              {
+                "id": "23.4.3.F",
+                "name": "Capabilities Development Directorate",
+                "loc": "Quantico, VA",
+                "children": []
+              },
+              {
+                "id": "23.4.3.I",
+                "name": "Marine Corps Warfighting Laboratory / Futures Directorate",
+                "loc": "Quantico, VA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
