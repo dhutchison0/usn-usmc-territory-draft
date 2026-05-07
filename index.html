@@ -9,7 +9,7 @@
 body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;background:#1a1a2e;color:#e0e0e0;display:flex;height:100vh;overflow:hidden}
 
 /* SIDEBAR */
-#sidebar{width:220px;min-width:220px;background:#16213e;border-right:1px solid #2a2a4a;display:flex;flex-direction:column;padding:14px;gap:10px;overflow-y:auto;z-index:10}
+#sidebar{width:220px;min-width:220px;background:#16213e;border-right:1px solid #2a2a4a;display:flex;flex-direction:column;padding:14px 14px 28px;gap:10px;overflow-y:auto;z-index:10;position:relative}
 #sidebar h1{font-size:13px;font-weight:700;color:#a0c4ff;letter-spacing:.5px;border-bottom:1px solid #2a2a4a;padding-bottom:8px;line-height:1.4}
 .legend-title{font-size:11px;font-weight:600;color:#888;text-transform:uppercase;letter-spacing:.8px;margin-top:4px}
 .person-btn{display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:6px;border:none;cursor:pointer;width:100%;text-align:left;font-size:12px;font-weight:600;color:#fff;margin-bottom:4px;transition:opacity .15s}
@@ -182,6 +182,9 @@ body.edit-mode .node-row:active{cursor:grabbing}
 .struct-field input:focus{outline:none;border-color:#5a80c0}
 #structModalFooter{display:flex;gap:8px;justify-content:flex-end;margin-top:14px}
 
+/* VERSION */
+#appVersion{text-align:center;font-size:10px;color:#3a5a8a;pointer-events:none;letter-spacing:.5px;padding-top:6px;margin-top:auto}
+
 /* FILE STATUS */
 #fileSection{border-top:1px solid #2a2a4a;padding-top:10px;margin-top:2px}
 #fileStatus{font-size:10px;color:#556;text-align:center;padding:2px 0;min-height:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -268,6 +271,7 @@ body.edit-mode .node-row:active{cursor:grabbing}
   <button class="ctrl-btn" onclick="exportAssignments()">⬇ Export CSV</button>
   <button class="ctrl-btn" onclick="importAssignments()">⬆ Merge Import CSV</button>
   <button class="ctrl-btn" id="btnEditMode" onclick="toggleEditMode()" style="margin-top:6px;border-color:#d4a800;color:#f0c000">✎ Edit Structure</button>
+  <div id="appVersion"></div>
 </div>
 
 <div id="chart-area">
@@ -365,6 +369,9 @@ body.edit-mode .node-row:active{cursor:grabbing}
 </div>
 
 <script>
+const APP_VERSION = '1.1';
+(function(){ const el = document.getElementById('appVersion'); if (el) el.textContent = 'v' + APP_VERSION; })();
+
 // ─── DATA ────────────────────────────────────────────────────────────────────
 let ORG = {id:"root",name:"Department of the Navy",children:[
 
@@ -738,6 +745,7 @@ let filterPerson = null;
 function saveAssignments() {
   try { localStorage.setItem('navyOrgData', JSON.stringify({ _tree: ORG, ...nodeData })); } catch(e) {}
   writeToFile(); // no-op if not connected
+  scheduleGhSave();
 }
 
 function loadAssignments() {
@@ -1774,6 +1782,15 @@ function importAssignments() {
 
 // ─── GITHUB INTEGRATION ──────────────────────────────────────────────────────
 let ghSettings = null;
+let ghSaveTimer = null;
+
+function scheduleGhSave() {
+  loadGhSettings();
+  if (!ghSettings.token || !ghSettings.owner || !ghSettings.repo) return;
+  clearTimeout(ghSaveTimer);
+  setFetchStatus('Unsaved changes…', '');
+  ghSaveTimer = setTimeout(() => saveToGitHub(), 5000);
+}
 
 function loadGhSettings() {
   if (ghSettings) return;
@@ -1805,16 +1822,18 @@ async function fetchSharedFile(silent) {
       return;
     }
     const raw = await res.json();
-    let treeChanged = false;
-    if (raw._tree) { ORG = raw._tree; rebuildNodeIndex(); treeChanged = true; }
-    const { _tree, ...rest } = raw;
-    const normalised = {};
-    Object.entries(rest).forEach(([k, v]) => { normalised[k] = typeof v === 'string' ? {ae: v} : v; });
-    if (Object.keys(normalised).length) {
-      applyImportWithConflicts(normalised);
-    } else if (treeChanged) {
-      saveAssignments(); render();
-    }
+
+    // Repo is source of truth — fully replace local state
+    Object.keys(nodeData).forEach(k => delete nodeData[k]);
+    if (raw._tree) { ORG = raw._tree; rebuildNodeIndex(); }
+    const { _tree, ...data } = raw;
+    Object.entries(data).forEach(([k, v]) => {
+      if (k === '_tree') return;
+      nodeData[k] = typeof v === 'string' ? {ae: v} : v;
+    });
+
+    try { localStorage.setItem('navyOrgData', JSON.stringify({ _tree: ORG, ...nodeData })); } catch(e) {}
+    render();
     const t = new Date().toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
     setFetchStatus('✓ Synced ' + t, 'ok');
   } catch(e) {
@@ -1896,6 +1915,8 @@ render();
 loadGhSettings();
 tryRestoreFile();
 fetchSharedFile(true); // auto-fetch navy_org_data.json from same URL path on load
+// Show GitHub settings on first visit (no token yet)
+if (!ghSettings.token) setTimeout(() => showGhSettings(), 600);
 </script>
 </body>
 </html>
